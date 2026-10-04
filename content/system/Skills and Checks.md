@@ -9,6 +9,6 @@
 * tactile scrying [ intellect + spellcasting ] vs 11
 * Medical knowledge [ medicine, wits ] > 7
 
-# [[005.]]
+# [[005. A Bond in Blood]]
 * Wilderness Travel [ grit ] vs 7
 * Self Knowledge [ intellect + wits ] vs 9
