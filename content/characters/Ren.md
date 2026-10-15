@@ -9,11 +9,11 @@ Renwald, our main character
 | Wits      | 2d6     | 2d6 |
 | Presence  | 1d6     | 1d6 |
 
-| Skills  | Current | Max |
-|---------|---------|-----|
-| Magic   | 2d6     | 2d6 |
-| Alchemy | 1d6     | 1d6 |
-| Healing | 1d6     | 1d6 |
+| Skills       | Current | Max |
+|--------------|---------|-----|
+| Spellcasting | 2d6     | 2d6 |
+| Alchemy      | 1d6     | 1d6 |
+| Medicine     | 1d6     | 1d6 |
 
 | Relationship | Current | Max | Valence  |
 |--------------|---------|-----|----------|
